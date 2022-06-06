@@ -3,6 +3,11 @@
 
 This project includes:
 1. Cubic Polynomial
-<image src="image/cubic
+<image src="image/cubic_plt.png">
 
-3. and Quintic Polynomial Plotting
+
+ 
+ 
+ 
+3. and Quintic Polynomial Plotting:
+ 
